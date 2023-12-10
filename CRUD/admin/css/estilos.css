@@ -1,0 +1,14 @@
+.table-bordered {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+@media (max-width: 992px) {
+    .tabla-izquierda {
+        max-width: 70%; /* O ajusta el porcentaje que se vea mejor en tabletas */
+    }
+}
